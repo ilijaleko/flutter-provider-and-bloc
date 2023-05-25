@@ -16,6 +16,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-        title: 'Flutter Demo', routerConfig: AppRouter.routerConfig);
+        title: 'Flutter bootcamp', routerConfig: AppRouter.routerConfig);
   }
 }
