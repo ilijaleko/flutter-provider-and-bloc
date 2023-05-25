@@ -1,16 +1,17 @@
-# flutter_bootcamp_2
+# Flutter - introduction to Provider and Bloc
 
-A new Flutter project.
+## Description
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
+This Flutter project serves as a showcase for demonstrating usage of provider and flutter_bloc packages.
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Setup
+
+1. Install dependencies: `flutter pub get`.
+2. Launch the app: `flutter run`.
+
+## Contact
+
+Feel free to get in touch if you found this useful or if something didn't behave as expected.
